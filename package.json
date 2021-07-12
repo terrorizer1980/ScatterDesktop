@@ -22,7 +22,7 @@
     "@walletpack/core": "^1.0.46",
     "@walletpack/eosio": "^0.0.58",
     "@walletpack/ethereum": "^0.0.56",
-    "@walletpack/fio": "^0.0.23",
+    "@walletpack/fio": "^0.0.29",
     "@walletpack/tron": "^0.0.59",
     "aes-oop": "^1.0.4",
     "asn1-ber": "^1.0.9",
