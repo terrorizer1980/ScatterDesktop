@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@ledgerhq/hw-app-eth": "^4.68.4",
-    "@ledgerhq/hw-transport-node-hid": "^4.78.0",
+    "@ledgerhq/hw-transport-node-hid": "^6.0.0",
     "@walletpack/bitcoin": "^1.0.51",
     "@walletpack/core": "^1.0.46",
     "@walletpack/eosio": "^0.0.58",
@@ -38,7 +38,7 @@
     "ethereumjs-tx": "^2.1.0",
     "isomorphic-fetch": "^2.2.1",
     "mini-css-extract-plugin": "^0.8.0",
-    "node-notifier": "^5.3.0",
+    "node-notifier": "^7.0.0",
     "rxjs": "^6.5.4",
     "scrypt-async": "^2.0.1",
     "ws": "^7.0.0"
